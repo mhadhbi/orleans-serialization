@@ -7,6 +7,7 @@ namespace OrleansSerialization.Contracts
     {
         [Id(0)]
         private readonly string brand;
+
         [Id(1)]
         private readonly string model;
 
